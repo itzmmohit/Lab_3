@@ -1,1 +1,5 @@
-# Lab-3
+Lab-3
+
+MOHIT MEHTA
+2247267
+MCA 2B
